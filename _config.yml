@@ -1,0 +1,28 @@
+###############################################################################
+# Jekyll Configuration
+highlighter: rouge
+markdown: kramdown
+permalink: /:title.html
+#paginate: 5
+port: 3000
+safe: true
+language: 'en-us'
+plugins: [jekyll-feed]
+
+###############################################################################
+# Page Personal Details
+url: http://dogancan.github.io/
+baseurl: /
+author: Dogan Can
+title: Dogan Can | Welcome to my homepage
+description: Personal Landing Page
+avatar: dogan.png
+
+# Social
+github: dogancan
+twitter: dogancanbaz
+linkedin: dogan-can-37a4a416
+google_scholar: 7pJKNp8AAAAJ
+
+# Google Analytics
+google_analytics: UA-127879028-1
